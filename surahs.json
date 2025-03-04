@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Al-Fatiha",
+        "audio": "https://qurancentral.com/surah/001-al-fatiha",
+        "video": "https://example.com/quran_videos/Al-Fatiha.mp4",
+        "translation": "In the name of Allah, the Most Gracious, the Most Merciful."
+    },
+    {
+        "id": 2,
+        "name": "Al-Baqara",
+        "audio": "https://everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/002001.mp3",
+        "video": "https://example.com/quran_videos/Al-Baqara.mp4",
+        "translation": "This is the Book about which there is no doubt."
+    },
+    {
+        "id": 3,
+        "name": "Al-Imran",
+        "audio": "https://everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/003001.mp3",
+        "video": "https://example.com/quran_videos/Al-Imran.mp4",
+        "translation": "Allah! There is no deity except Him, the Ever-Living, the Sustainer of existence."
+    },
+    {
+        "id": 4,
+        "name": "An-Nisa",
+        "audio": "https://everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/004001.mp3",
+        "video": "https://example.com/quran_videos/An-Nisa.mp4",
+        "translation": "O mankind, fear your Lord, who created you from one soul."
+    },
+    {
+        "id": 5,
+        "name": "Al-Ma'idah",
+        "audio": "https://everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/005001.mp3",
+        "video": "https://example.com/quran_videos/Al-Ma'idah.mp4",
+        "translation": "O you who have believed, fulfill all contracts."
+    },
+    {
+        "id": 6,
+        "name": "Al-An'am",
+        "audio": "https://everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/006001.mp3",
+        "video": "https://example.com/quran_videos/Al-An'am.mp4",
+        "translation": "All praise is due to Allah, who created the heavens and the earth."
+    },
+    {
+        "id": 7,
+        "name": "Al-A'raf",
+        "audio": "https://everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/007001.mp3",
+        "video": "https://example.com/quran_videos/Al-A'raf.mp4",
+        "translation": "This is a Book sent down to you - so let there not be in your breast distress."
+    },
+    {
+     "id": 8,
+     "name": "anfal",
+     "audio": "https://qurancentral.com/surah/008-al-anfal",
+     "translation": "This is a Book sent down to you - so let there not be in your breast distress."
+    },
+
+    {
+        "id": 9,
+        "name": "urdu_point",
+        "audio": "https://www.urdupoint.com/islam/audio-quran-in-urdu-translation.html",
+        "translation": "This is a Book sent down to you - so let there not be in your breast distress."
+       }
+    ]
+
+   
